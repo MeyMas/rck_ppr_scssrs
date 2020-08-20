@@ -1,1 +1,1 @@
-Computerized version of popular gaem Rock-Paper-Scissors made as extracullicular assignment for Udacity Intro to Programming course
+Computerized version of popular game Rock-Paper-Scissors made as extracurricular assignment for Udacity Intro to Programming course
